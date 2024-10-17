@@ -7,7 +7,7 @@ Version:        1.6.8
 Release:        1%{?dist}
 Summary:        Support programs for Airspy HF+ SDR
 License:        BSD-3-Clause
-URL:            http://www.airspy.com/airspy-hf-plus
+URL:            https://www.airspy.com/airspy-hf-plus
 #Git-Clone:     https://github.com/airspy/airspyhf.git
 Source:         https://github.com/airspy/%{name}/archive/%{version}/%{name}-%{version}.tar.gz         
 BuildRequires:  cmake
